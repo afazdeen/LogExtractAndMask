@@ -1,18 +1,18 @@
-My first name is Sunny
-My last name is Kin
-My full name is Sunny Kin
-My telephone number is 33394302
-My postal address is The Thief, Landgangen 1, Oslo
-My postal code is 2636
-My index number is 19163
-My salary is 39,165.394
-My national id number is 06089131119
-My first name is Oudu
-My last name is Stoa
-My full name is Oudu Stoa
-My telephone number is 33087162
-My postal address is Brystdiagnostisk senter, Vestre Viken, Dronninggata 28, Dramme
-My postal code is 2550
-My index number is 10959
-My salary is 20,960.308
-My national id number is 11129254560
+My first name is HArekr
+My last name is Rue
+My full name is HArekr Rue
+My telephone number is 37953553
+My postal address is Hammersborggata, Norway
+My postal code is 1395
+My index number is 16040
+My salary is 16,040.953
+My national id number is 11069399575
+My first name is PAlnatoki
+My last name is Moland
+My full name is PAlnatoki Moland
+My telephone number is 33621177
+My postal address is Oslo bussterminal, Norway
+My postal code is 1396
+My index number is 19041
+My salary is 19,041.621
+My national id number is 12118492762
