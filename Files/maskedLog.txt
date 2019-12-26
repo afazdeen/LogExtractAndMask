@@ -1,0 +1,18 @@
+My first name is Tallev
+My last name is Lieberg
+My full name is Tallev Lieberg
+My telephone number is 38744688
+My postal address is Bergen busstasjon, Norway
+My postal code is 1458
+My index number is 19270
+My salary is 39,272.744
+My national id number is 23109401744
+My first name is Pawel
+My last name is Boge
+My full name is Pawel Boge
+My telephone number is 33237785
+My postal address is Outland Bergen, Fortunen 4, Berge
+My postal code is 1628
+My index number is 11120
+My salary is 21,121.237
+My national id number is 22038593863

@@ -1,1 +1,1 @@
-# LogExtractAndMask
+# LogMaskingTool
