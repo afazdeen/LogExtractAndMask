@@ -17,8 +17,8 @@
 					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="FlexibleComputerLanguage1">
-				<Option output="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/cmake-build-debug/FlexibleComputerLanguage1.exe" prefix_auto="0" extension_auto="0"/>
+			<Target title="MaskTool">
+				<Option output="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/cmake-build-debug/MaskTool.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -36,14 +36,14 @@
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 FlexibleComputerLanguage1"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 MaskTool"/>
 					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="FlexibleComputerLanguage1/fast">
-				<Option output="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/cmake-build-debug/FlexibleComputerLanguage1.exe" prefix_auto="0" extension_auto="0"/>
+			<Target title="MaskTool/fast">
+				<Option output="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/cmake-build-debug/MaskTool.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -61,7 +61,7 @@
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 FlexibleComputerLanguage1/fast"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 MaskTool/fast"/>
 					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -89,268 +89,268 @@
 			</Target>
 		</Build>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/AdditionalFunctions.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/Bool.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/Bool.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/CPlusPlusEntry.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/CPlusPlusEntry.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/Command.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/Command.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/CommonIncludes.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/DateTime.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/DateTimeOperations.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/DateTimeOperations.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/DefFileReader.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/DefFileReader.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/Defs.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/Entity.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/EntityList.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/EntityList.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/ExecutionContext.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/ExecutionTemplate.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/ExecutionTemplate.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/ExecutionTemplateList.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/ExecutionTemplateList.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/ISpecialCommand.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/Int.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/MemMan.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/MemMan.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/MetaData.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/Node.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/Node.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/NodeCustomValueShorthand.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/NodeCustomValueShorthand.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/Null.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/ProcessLog.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/ScriptReader.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/ScriptReader.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/SpecialCommandExecuter.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/SpecialCommandExecuter.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/StringOperations.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/StringOperations.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/Strings.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestCaseBase.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestCaseBase.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestCaseExecuter.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestCaseExecuter.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestCaseIncludes.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestCompound1.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestCompound1.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestCustomStrFilterShorthand.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestCustomStrFilterShorthand.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestFilterSubtree.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestFilterSubtree.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestListFilter.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestListFilter.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestListGroupBy.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestListGroupBy.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestListInnerCount.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestListInnerCount.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestListInnerCountWithScript.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestListInnerCountWithScript.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestListSeek.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestListSeek.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestLoadFromCodeLibrary.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestLoadFromCodeLibrary.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestStringEnclosure.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestStringEnclosure.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestTestCase.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TestCases/TestTestCase.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/Tests.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/Tests.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/TypeDefs.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/Utils.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/Utils.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/Core/Value.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/FlexibleComputerLanguage/DbConnection.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/FlexibleComputerLanguage/LogJsonParser.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/FlexibleComputerLanguage/LogJsonParser.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/FlexibleComputerLanguage/Logger.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/FlexibleComputerLanguage/MysqlConnector.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/FlexibleComputerLanguage/MysqlConnector.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/FlexibleComputerLanguage/QueryExecuter.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/FlexibleComputerLanguage/QueryExecuter.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/FlexibleComputerLanguage/ResultGenerator.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/FlexibleComputerLanguage/ResultGenerator.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/FlexibleComputerLanguage/easylogging++.cc">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/FlexibleComputerLanguage/easylogging++.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/FlexibleComputerLanguage/json.hpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/FlexibleComputerLanguage/main.cpp">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/MySql/mysqlheaders/mysqlheaders/mysql.h">
-			<Option target="FlexibleComputerLanguage1"/>
+			<Option target="MaskTool"/>
 		</Unit>
 		<Unit filename="D:/99xProjects/Project2 - Flat file Masking/LogExtractAndMask/LDAL/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
